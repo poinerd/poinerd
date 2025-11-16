@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Obadofin Emmanuel  
 
-I'm a **Product Designer and Software Engineer** exploring how design, code, and creativity can come together to build meaningful experiences.  
+I'm a **Product Designer and Software Developer** exploring how design, code, and creativity can come together to build meaningful experiences.  
 I love crafting interfaces, products, and ideas that blend **art, technology, and human purpose**.
 
 ---
