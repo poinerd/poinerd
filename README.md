@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Obadofin Emmanuel  
 
-I'm computer engineering undergrad interested in and currently exploring Human centered design, AI and robotics.
+I'm a computer engineering undergrad interested in and currently exploring Human centered design, AI and robotics.
 ---
 
 ### 🌍 Connect with Me
