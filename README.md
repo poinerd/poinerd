@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Obadofin Emmanuel  
 
-I'm a computer engineering undergrad interested in and currently exploring Human centered design, Systems Software engineering, and Embedded Systems Engineering
+Computer Ungergrad exploring Human centered design, Systems and Embedded Software Engineering/
 ---
 
 ### 🌍 Connect with Me
