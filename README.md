@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Obadofin Emmanuel  
 
-Computer Ungergrad exploring Human centered design, Systems and Embedded Software Engineering/
+Computer Engineering Undergrad exploring Human centered design, Systems and Embedded Software Engineering.
 ---
 
 ### 🌍 Connect with Me
