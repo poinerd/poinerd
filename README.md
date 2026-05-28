@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Emmanuel  
-I'm currently exploring Human centered design, Systems and Embedded Software Engineering.
+# I just want to make stuff 
+interests - Systems and embedded swe, Design.
 ---
 [🌐](https://hello-grandeur.vercel.app)  
 [💼 LinkedIn](https://linkedin.com/in/obadofin-emmanuel)  
